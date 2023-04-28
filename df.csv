@@ -1,0 +1,67 @@
+,1,retrived_at,province_id,city,state,country,pollution_aqi,polution_main,weather_tp,weather_pr,weather_hu,weather_ws,weather_wd
+1,2,4/26/2023 17:16:29,TH-12,Mueang Nonthaburi,Nonthaburi,Thailand,45,p2,32,1006,64,1.54,160
+2,3,4/26/2023 17:17:00,TH-13,Khlong Luang,Pathum Thani,Thailand,37,p2,33,1007,68,1.54,160
+3,4,4/26/2023 17:17:31,TH-14,Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,114,p2,34,1004,44,3.3,156
+4,5,4/26/2023 17:18:02,TH-15,Ban Phraek,Phra Nakhon Si Ayutthaya,Thailand,80,p2,36,1004,41,2.73,162
+5,6,4/26/2023 17:18:33,TH-16,Ban Mi,Lop Buri,Thailand,59,p2,36,1003,37,1.22,230
+6,7,4/26/2023 17:19:04,TH-20,Na Kluea,Chon Buri,Thailand,70,p2,31,1005,64,3.39,162
+7,8,4/26/2023 17:19:35,TH-21,Ban Khai,Rayong,Thailand,51,p2,30,1007,79,2.52,128
+8,9,4/26/2023 17:20:06,TH-50,Chiang Mai,Chiang Mai,Thailand,121,p2,30,979,47,6.17,240
+9,10,4/26/2023 17:20:37,TH-52,Hang Chat,Lampang,Thailand,74,p2,26,1006,76,4.14,241
+10,11,4/26/2023 18:15:27,TH-10,Phra Nakhon,Bangkok,Thailand,78,p2,30,1005,63,4.71,175
+11,12,4/26/2023 18:15:59,TH-11,Bang Phli,Samut Prakan,Thailand,72,p2,31,1005,57,4.08,181
+12,13,4/26/2023 18:16:30,TH-12,Mueang Nonthaburi,Nonthaburi,Thailand,59,p2,31,1007,65,2.57,170
+13,14,4/26/2023 18:17:01,TH-13,Khlong Luang,Pathum Thani,Thailand,29,p2,32,1008,69,2.57,170
+14,15,4/26/2023 18:17:32,TH-14,Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,102,p2,34,1004,46,3.23,164
+15,16,4/26/2023 18:18:03,TH-15,Ban Phraek,Phra Nakhon Si Ayutthaya,Thailand,80,p2,33,1004,44,2.99,165
+16,17,4/26/2023 18:18:34,TH-16,Ban Mi,Lop Buri,Thailand,59,p2,33,1004,39,1.53,173
+17,18,4/26/2023 18:19:06,TH-20,Na Kluea,Chon Buri,Thailand,70,p2,30,1006,68,3.37,171
+18,19,4/26/2023 18:19:37,TH-21,Ban Khai,Rayong,Thailand,51,p2,29,1008,80,2.7,147
+19,20,4/26/2023 18:20:08,TH-50,Chiang Mai,Chiang Mai,Thailand,124,p2,29,983,45,5.66,220
+20,21,4/26/2023 18:20:39,TH-52,Hang Chat,Lampang,Thailand,72,p2,25,1005,76,1.15,211
+21,22,4/26/2023 19:15:27,TH-10,Phra Nakhon,Bangkok,Thailand,78,p2,30,1006,64,2.56,164
+22,23,4/26/2023 19:15:58,TH-11,Bang Phli,Samut Prakan,Thailand,69,p2,30,1006,63,2.43,175
+23,24,4/26/2023 19:16:29,TH-12,Mueang Nonthaburi,Nonthaburi,Thailand,75,p2,30,1008,69,2.57,160
+24,25,4/26/2023 19:17:00,TH-13,Khlong Luang,Pathum Thani,Thailand,37,p2,30,1009,62,2.57,160
+25,26,4/26/2023 19:17:31,TH-14,Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,74,p2,30,1006,53,2.83,156
+26,27,4/26/2023 19:18:01,TH-15,Ban Phraek,Phra Nakhon Si Ayutthaya,Thailand,87,p2,32,1006,51,2.85,169
+27,28,4/26/2023 19:18:32,TH-16,Ban Mi,Lop Buri,Thailand,64,p2,33,1006,48,0.92,180
+28,29,4/26/2023 19:19:03,TH-20,Na Kluea,Chon Buri,Thailand,68,p2,29,1007,68,3.2,180
+29,30,4/26/2023 19:19:34,TH-21,Ban Khai,Rayong,Thailand,70,p2,28,1009,85,1.69,161
+30,31,4/26/2023 19:20:05,TH-50,Chiang Mai,Chiang Mai,Thailand,123,p2,28,1009,65,4.63,240
+31,32,4/26/2023 19:20:37,TH-52,Hang Chat,Lampang,Thailand,76,p2,24,1008,75,2.33,254
+32,33,4/26/2023 20:15:27,TH-10,Phra Nakhon,Bangkok,Thailand,78,p2,28,1007,65,3.36,184
+33,34,4/26/2023 20:15:58,TH-11,Bang Phli,Samut Prakan,Thailand,81,p2,28,1009,83,0,0
+34,35,4/26/2023 20:16:29,TH-12,Mueang Nonthaburi,Nonthaburi,Thailand,74,p2,29,1009,74,1.54,160
+35,36,4/26/2023 20:17:00,TH-13,Khlong Luang,Pathum Thani,Thailand,49,p2,30,1010,72,1.54,160
+36,37,4/26/2023 20:17:31,TH-14,Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,138,p2,31,1007,55,2.4,154
+37,38,4/26/2023 20:18:02,TH-15,Ban Phraek,Phra Nakhon Si Ayutthaya,Thailand,85,p2,31,1007,54,2.56,170
+38,39,4/26/2023 20:18:33,TH-16,Ban Mi,Lop Buri,Thailand,64,p2,32,1007,50,1.65,176
+39,40,4/26/2023 20:19:04,TH-20,Na Kluea,Chon Buri,Thailand,74,p2,29,1008,70,3.08,177
+40,41,4/26/2023 20:19:35,TH-21,Ban Khai,Rayong,Thailand,76,p2,28,1010,60,1.23,169
+41,42,4/26/2023 20:20:06,TH-50,Chiang Mai,Chiang Mai,Thailand,122,p2,26,973,47,3.09,250
+42,43,4/26/2023 20:20:36,TH-52,Hang Chat,Lampang,Thailand,86,p2,24,1009,75,0.97,263
+43,44,4/26/2023 21:15:27,TH-10,Phra Nakhon,Bangkok,Thailand,78,p2,28,1008,55,4,195
+44,45,4/26/2023 21:15:58,TH-11,Bang Phli,Samut Prakan,Thailand,86,p2,28,1010,83,1.03,0
+45,46,4/26/2023 21:16:30,TH-12,Mueang Nonthaburi,Nonthaburi,Thailand,78,p2,29,1010,67,1.54,120
+46,47,4/26/2023 21:17:00,TH-13,Khlong Luang,Pathum Thani,Thailand,57,p2,30,1010,70,1.54,120
+47,48,4/26/2023 21:17:32,TH-14,Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,143,p2,31,1008,57,2.39,173
+48,49,4/26/2023 21:18:03,TH-15,Ban Phraek,Phra Nakhon Si Ayutthaya,Thailand,85,p2,31,1008,56,2.5,168
+49,50,4/26/2023 21:18:34,TH-16,Ban Mi,Lop Buri,Thailand,64,p2,32,1008,53,2.12,181
+50,51,4/26/2023 21:19:05,TH-20,Na Kluea,Chon Buri,Thailand,74,p2,29,1009,73,3.17,181
+51,52,4/26/2023 21:19:36,TH-21,Ban Khai,Rayong,Thailand,76,p2,27,1010,80,1.61,164
+52,53,4/26/2023 21:20:07,TH-50,Chiang Mai,Chiang Mai,Thailand,124,p2,24,974,44,4.12,240
+53,54,4/26/2023 21:20:38,TH-52,Hang Chat,Lampang,Thailand,96,p2,24,1009,74,0.17,98
+54,55,4/26/2023 22:15:27,TH-10,Phra Nakhon,Bangkok,Thailand,78,p2,28,1009,48,3.76,188
+55,56,4/26/2023 22:15:58,TH-11,Bang Phli,Samut Prakan,Thailand,75,p2,27,1010,89,0,0
+56,57,4/26/2023 22:16:29,TH-12,Mueang Nonthaburi,Nonthaburi,Thailand,79,p2,29,1010,66,0,0
+57,58,4/26/2023 22:17:00,TH-13,Khlong Luang,Pathum Thani,Thailand,80,p2,30,1010,75,0,0
+58,59,4/26/2023 22:17:31,TH-14,Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,153,p2,31,1009,60,2.75,199
+59,60,4/26/2023 22:18:01,TH-15,Ban Phraek,Phra Nakhon Si Ayutthaya,Thailand,110,p2,27,1009,59,2.33,163
+60,61,4/26/2023 22:18:32,TH-16,Ban Mi,Lop Buri,Thailand,66,p2,27,1009,57,2.82,177
+61,62,4/26/2023 22:19:03,TH-20,Na Kluea,Chon Buri,Thailand,93,p2,29,1010,74,3.09,183
+62,63,4/26/2023 22:19:34,TH-21,Ban Khai,Rayong,Thailand,29,p2,28,1010,67,1.01,183
+63,64,4/26/2023 22:20:05,TH-50,Chiang Mai,Chiang Mai,Thailand,116,p2,24,986,49,2.57,220
+64,65,4/26/2023 22:20:36,TH-52,Hang Chat,Lampang,Thailand,86,p2,24,1010,77,0.4,40
+65,66,4/26/2023 23:15:32,TH-10,Phra Nakhon,Bangkok,Thailand,78,p2,28,1009,47,3.92,188
+66,67,4/26/2023 23:16:03,TH-11,Bang Phli,Samut Prakan,Thailand,92,p2,28,1009,78,1.54,0
